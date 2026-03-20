@@ -15,7 +15,6 @@ Aqui você irá aprender:
 - Enviar alterações com `push`
 - Atualizar o projeto com `pull`
 - Trabalhar com **Pull Requests (PR)**
-- Resolver conflitos (nível avançado)
 
 ---
 
@@ -27,10 +26,3 @@ Aqui você irá aprender:
 ✔️ Depois deve ser aberto um **Pull Request**
 
 ---
-
-## 🧭 Passo a passo (fluxo correto)
-
-### 1. Clonar o repositório
-
-```bash
-git clone URL_DO_REPOSITORIO
